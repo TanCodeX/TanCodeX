@@ -1,9 +1,16 @@
-<h1 align="center">
-  Hi&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />&nbsp;I'm Tanmay<br/>
+<div align="center">
+
+<!-- Animated Banner -->
+![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
+
+<!-- Typing SVG Title -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Yo!+I'm+Tanmay+Patwary+%F0%9F%91%8B;PERN+Stack+Developer+%F0%9F%8E%93;Building+The+Future+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
+
 # About Me:
-🔭 I’m currently working on Web Dev<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning AI/ML<br>⚡ Fun fact **"Ctrl + Z Savior."**
+🔭 I’m currently working on my biggest project **{Myself}** <br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning AI/ML<br>⚡ Fun fact **"Ctrl + Z Savior."**
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-patwary-584267300/) 
@@ -29,19 +36,102 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # GitHub Stats:
+<!-- Enhanced Stats Cards -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TanCodeX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF&hide_rank=false&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TanCodeX&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TanCodeX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF&hide_rank=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanCodeX&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=TanCodeX&theme=dracula&hide_border=false" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanCodeX&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=TanCodeX&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C3D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=TanCodeX&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=TanCodeX&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C3D1D9" height="180" alt="GitHub Streak" />
+</picture>
 
-## 🔝 Top Contributed Repo
+<br />
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=TanCodeX&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br />
+
+
+<!-- Contribution Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TanCodeX&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C3D1D9&area=true&area_color=58A6FF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TanCodeX&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanCodeX&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C3D1D9&area=true&area_color=58A6FF" width="95%" alt="Contribution Graph" />
+</picture>
+
+<br>
+
+<!-- Dynamic Coding Stats -->
+<table align="center" style="border:none;">
+  <tr>
+    <td align="center" style="border:none;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TanCodeX&theme=tokyonight&utcOffset=5.5" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TanCodeX&theme=default&utcOffset=5.5" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TanCodeX&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+      </picture>
+    </td>
+    <td align="center" style="border:none;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TanCodeX&theme=tokyonight" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TanCodeX&theme=default" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TanCodeX&theme=tokyonight" alt="Repos per Language" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:none;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TanCodeX&theme=tokyonight" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TanCodeX&theme=default" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TanCodeX&theme=tokyonight" alt="Most Commit Language" />
+      </picture>
+    </td>
+    <td align="center" style="border:none;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TanCodeX&theme=tokyonight" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TanCodeX&theme=default" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TanCodeX&theme=tokyonight" alt="Stats" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br />
+
+<!-- Quote Box -->
+<table align="center" width="85%">
+  <tr>
+    <td align="center" style="padding:20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+      <!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk0YjN5dHVnb2RmOGFxd2RzbGYzMXVvNTRsNjUyenVpcjJjcjdweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SS8CV2rQdlYNLtBCiF/giphy.gif" width="25" /> -->
+      <h3><i>"Code is like humor. When you have to explain it, it's bad."</i></h3>
+      <sub>- Cory House</sub>
+      <!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk0YjN5dHVnb2RmOGFxd2RzbGYzMXVvNTRsNjUyenVpcjJjcjdweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SS8CV2rQdlYNLtBCiF/giphy.gif" width="25" /> -->
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
